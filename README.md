@@ -1,6 +1,6 @@
 # ankithaec-dot
 # 💫 About Me:
-Om currently leaning programming 
+I'm currently leaning programming 
 
 
 ## 🌐 Socials:
